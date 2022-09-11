@@ -1,2 +1,2 @@
 # Glitch-Effect
-GLITCH EFFECT Using Html and Css.
+GLITCH EFFECT USING HTML AND CSS.
