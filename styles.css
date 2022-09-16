@@ -36,7 +36,6 @@ body{
     z-index: -1;
 }
 /* keyframes for animation */
-
 @keyframes glitch{
     0%{
         top: 0;
