@@ -35,6 +35,7 @@ body{
     color: #2196f3;
     z-index: -1;
 }
+/* keyframes for animation */
 /* animation */
 @keyframes glitch{
     0%{
